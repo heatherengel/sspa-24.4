@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-// randomupdate
-
 function App() {
   return (
     <div className="App">
